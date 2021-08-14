@@ -1,0 +1,1 @@
+Going to visually (as in not functioning) recreate the google home page as per the odin project.
